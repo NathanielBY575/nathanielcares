@@ -1,0 +1,9 @@
+
+@media (max-width: 500px) {
+    #about{
+        padding: 30px;
+        text-align: justify;
+        font-size: 13px;
+        line-height: 25px;
+    }
+}
