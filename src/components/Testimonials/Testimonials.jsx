@@ -44,9 +44,9 @@ const teamData = [
 ];
 const Testimonials = () => {
   return (
-    <div className="bg-[#f0ebeb] py-24 sm:py-32 ">
+    <div className="bg-[#f0ebeb] py-24 sm:py-32 pl-5">
     <h1 className=" lg:pl-[150px]  mt-2 mb-[50px] text-3xl font-bold tracking-tight text-decoration-underline sm:text-4xl">
-    TESTINONIALS
+    TESTIMONIALS
    </h1>
       <div className="mr-[200px]">
       <ul

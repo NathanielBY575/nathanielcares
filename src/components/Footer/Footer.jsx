@@ -6,6 +6,8 @@ import { FaLocationDot, FaPhone } from "react-icons/fa6";
 const Footer = () => {
   return (
     <div>
+    <iframe style={{width:"100%", height:"420px"}} src="https://maps.google.com/maps?q=abuakwa-tanoso,kumasi,usa&amp;t=&amp;z=13&amp;ie=UTF8&amp;iwloc=&amp;output=embed" title='Mizpah International Ministry'></iframe>
+
       <h2 className=" text-center">
         <Badge bg="danger">Contact Us</Badge>
       </h2>

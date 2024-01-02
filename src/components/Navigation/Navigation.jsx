@@ -42,7 +42,7 @@ const Navigation = () => {
       <Navbar.Brand>
       <div className="d-flex align-items-center justify-content-center">
       <div style={{width:"50px", height:"50px", borderRadius:"20px"}}><img src={Logo} alt='Clement Foundation'/></div>
-      <div className='pl-5 text-white text-Fonts'>Clement Foundation</div>
+      <div className='pl-5 text-white text-Fonts'>Nathanielcares </div>
       </div>
      </Navbar.Brand>
       <Navbar.Toggle aria-controls="basic-navbar-nav" />

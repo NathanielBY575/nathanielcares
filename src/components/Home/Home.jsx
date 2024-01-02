@@ -76,9 +76,7 @@ const Home = () => {
           interested in how impactful providing these help would have on the
           early childhood experiences and neurological development as we compare
           children enjoying these benefits to those devoid of these in
-          neighboring countries. These help has started effacing the situation
-          where youngsters - particularly orphans - let alone to fend for
-          themselves undertake various irresponsible acts: robbery
+          neighboring countries. 
               </p>
               
             </div>
