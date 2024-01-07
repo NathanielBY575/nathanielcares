@@ -36,7 +36,7 @@ const teamData = [
   {
     name: "CLEMENT AGYEI",
     position:"CO-FOUNDER",
-    details: `Clement Agyei, our Co-founder, is a graduate from Prempeh College. He's the founder of We Care Foundation. Clement is a compassionate and self-centered person who is best known for his contribution to low-income communities in Ghana. Clement also serves as an ambassador for the Toothtrek in Ghana.`,
+    details: `Clement Agyei, our Co-founder, is a graduate from Prempeh College. He's the founder of Clement Foundation. Clement is a compassionate and self-centered person who is best known for his contribution to low-income communities in Ghana. Clement also serves as an ambassador for the Toothtrek in Ghana.`,
     imageUrl: clement
  },
   {
