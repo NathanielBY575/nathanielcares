@@ -129,7 +129,7 @@ const Footer = () => {
 3.	If you have surplus food which is good to eat, then just call us. <br /> We will come to pick and distribute them to various orphanage homes. 
 
         </p>
-        <p className="text-center text-[#ff009e]">This site was created by <a href="https://linktr.ee/nathanielafriyie1500"></a>Nathaniel Afriyie</p>
+        <p className="text-center text-[#ff009e]">This site was created by <a href="https://linktr.ee/nathanielafriyie1500">Nathaniel Afriyie</a></p>
       </div>
     </div>
   );
